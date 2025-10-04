@@ -10,3 +10,6 @@ pytest-asyncio==0.24.0
 asyncio==3.4.3
 langchain-openai
 langsmith
+neo4j>=5.20.0,<6
+streamlit>=1.37
+pyvis>=0.3.2
